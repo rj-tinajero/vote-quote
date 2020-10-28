@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/votequote/static/css/main.5f396199.chunk.css",
+    "main.js": "/votequote/static/js/main.65471d2d.chunk.js",
+    "main.js.map": "/votequote/static/js/main.65471d2d.chunk.js.map",
+    "runtime-main.js": "/votequote/static/js/runtime-main.560cd637.js",
+    "runtime-main.js.map": "/votequote/static/js/runtime-main.560cd637.js.map",
+    "static/js/2.05225c0b.chunk.js": "/votequote/static/js/2.05225c0b.chunk.js",
+    "static/js/2.05225c0b.chunk.js.map": "/votequote/static/js/2.05225c0b.chunk.js.map",
+    "index.html": "/votequote/index.html",
+    "precache-manifest.1a6053b0e7f15c3bb872f56716490f19.js": "/votequote/precache-manifest.1a6053b0e7f15c3bb872f56716490f19.js",
+    "service-worker.js": "/votequote/service-worker.js",
+    "static/css/main.5f396199.chunk.css.map": "/votequote/static/css/main.5f396199.chunk.css.map",
+    "static/js/2.05225c0b.chunk.js.LICENSE.txt": "/votequote/static/js/2.05225c0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.560cd637.js",
+    "static/js/2.05225c0b.chunk.js",
+    "static/css/main.5f396199.chunk.css",
+    "static/js/main.65471d2d.chunk.js"
+  ]
+}
