@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import './App.css';
 import {connect, useDispatch} from 'react-redux'
 import {increment, decrement, refreshQuote} from './redux/actions'
@@ -11,6 +11,8 @@ function App(props) {
   function refreshPage() {
     window.location.reload(false)
   }
+
+
 
   return (
     <div className="App">
