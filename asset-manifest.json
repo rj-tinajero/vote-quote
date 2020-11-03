@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vote-quote/static/css/main.5f396199.chunk.css",
-    "main.js": "/vote-quote/static/js/main.9ae4d0db.chunk.js",
-    "main.js.map": "/vote-quote/static/js/main.9ae4d0db.chunk.js.map",
+    "main.js": "/vote-quote/static/js/main.2d38c717.chunk.js",
+    "main.js.map": "/vote-quote/static/js/main.2d38c717.chunk.js.map",
     "runtime-main.js": "/vote-quote/static/js/runtime-main.48bfe8d5.js",
     "runtime-main.js.map": "/vote-quote/static/js/runtime-main.48bfe8d5.js.map",
     "static/js/2.49428d54.chunk.js": "/vote-quote/static/js/2.49428d54.chunk.js",
     "static/js/2.49428d54.chunk.js.map": "/vote-quote/static/js/2.49428d54.chunk.js.map",
     "index.html": "/vote-quote/index.html",
-    "precache-manifest.ce211349ed81981d606da6ce42f93a47.js": "/vote-quote/precache-manifest.ce211349ed81981d606da6ce42f93a47.js",
+    "precache-manifest.fa3f63da45b87b7568d90500c36dcab8.js": "/vote-quote/precache-manifest.fa3f63da45b87b7568d90500c36dcab8.js",
     "service-worker.js": "/vote-quote/service-worker.js",
     "static/css/main.5f396199.chunk.css.map": "/vote-quote/static/css/main.5f396199.chunk.css.map",
     "static/js/2.49428d54.chunk.js.LICENSE.txt": "/vote-quote/static/js/2.49428d54.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.48bfe8d5.js",
     "static/js/2.49428d54.chunk.js",
     "static/css/main.5f396199.chunk.css",
-    "static/js/main.9ae4d0db.chunk.js"
+    "static/js/main.2d38c717.chunk.js"
   ]
 }
