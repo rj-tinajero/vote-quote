@@ -26,7 +26,7 @@ export function decrement(item) { console.log(randomIndex, "index")
          author: item.author,
          quote: item.quote,
          upvote: item.upvote,
-         downvote: item.downvote - 1
+         downvote: item.downvote + 1
       })
       dispatch({
          type: "DOWN_VOTE"

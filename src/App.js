@@ -12,8 +12,6 @@ function App(props) {
     window.location.reload(false)
   }
 
-
-
   return (
     <div className="App">
       <nav className="navbar nav-color">

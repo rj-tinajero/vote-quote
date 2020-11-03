@@ -19,7 +19,7 @@ export default function reducer(state = initialState, action) {
       case "DOWN_VOTE":
             return {
                ...state,
-               downvote: state.downvote - 1
+               downvote: state.downvote + 1
             }
       case "REFRESH": 
          return state = action.payload
